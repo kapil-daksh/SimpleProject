@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57307" started-at="2014-05-06T13:33:53Z" finished-at="2014-05-06T13:34:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57307" started-at="2014-05-06T13:33:53Z" finished-at="2014-05-06T13:34:50Z">
+      <class name="com.croissance.LoginClass">
+        <test-method status="PASS" signature="loginMethod()[pri:0, instance:com.croissance.LoginClass@1181c24]" name="loginMethod" duration-ms="57234" started-at="2014-05-06T19:03:53Z" finished-at="2014-05-06T19:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMethod -->
+      </class> <!-- com.croissance.LoginClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
